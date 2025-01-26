@@ -15,7 +15,7 @@
         <module>V4_CommandPattern</module>
         <module>V5_DecoratorPattern</module>
         <module>Factory</module>
-        <module>FactoryPattern</module>
+        <module>V6_FactoryPattern</module>
     </modules>
 
     <properties>
