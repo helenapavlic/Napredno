@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>StrategyPattern</module>
+        <module>V1_StrategyPattern</module>
         <module>ObserverPattern</module>
         <module>AdapterAndFacadePattern</module>
         <module>CommandPattern</module>
