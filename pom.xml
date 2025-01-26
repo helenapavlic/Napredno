@@ -10,7 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>V1_StrategyPattern</module>
-        <module>ObserverPattern</module>
+        <module>V2_ObserverPattern</module>
         <module>AdapterAndFacadePattern</module>
         <module>CommandPattern</module>
         <module>DecoratorPattern</module>
