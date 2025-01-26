@@ -12,7 +12,7 @@
         <module>V1_StrategyPattern</module>
         <module>V2_ObserverPattern</module>
         <module>V3_AdapterAndFacadePattern</module>
-        <module>CommandPattern</module>
+        <module>V4_CommandPattern</module>
         <module>DecoratorPattern</module>
         <module>Factory</module>
         <module>FactoryPattern</module>
