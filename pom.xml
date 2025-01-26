@@ -13,7 +13,7 @@
         <module>V2_ObserverPattern</module>
         <module>V3_AdapterAndFacadePattern</module>
         <module>V4_CommandPattern</module>
-        <module>DecoratorPattern</module>
+        <module>V5_DecoratorPattern</module>
         <module>Factory</module>
         <module>FactoryPattern</module>
     </modules>
