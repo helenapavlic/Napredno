@@ -11,7 +11,7 @@
     <modules>
         <module>V1_StrategyPattern</module>
         <module>V2_ObserverPattern</module>
-        <module>AdapterAndFacadePattern</module>
+        <module>V3_AdapterAndFacadePattern</module>
         <module>CommandPattern</module>
         <module>DecoratorPattern</module>
         <module>Factory</module>
